@@ -908,7 +908,7 @@
                       <ref role="1Pybhc" to="w1kc:~ModelAccess" resolve="ModelAccess" />
                     </node>
                     <node concept="liA8E" id="75wOK7md_Wj" role="2OqNvi">
-                      <ref role="37wK5l" to="w1kc:~ModelCommandExecutor.runWriteAction(java.lang.Runnable):void" resolve="runWriteAction" />
+                      <ref role="37wK5l" to="lui2:~ModelAccess.runWriteAction(java.lang.Runnable):void" resolve="runWriteAction" />
                       <node concept="2ShNRf" id="75wOK7mdA0w" role="37wK5m">
                         <node concept="YeOm9" id="75wOK7mdAwX" role="2ShVmc">
                           <node concept="1Y3b0j" id="75wOK7mdAx0" role="YeSDq">

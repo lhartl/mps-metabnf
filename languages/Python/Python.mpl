@@ -78,6 +78,7 @@
     <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
     <module reference="a9e4c532-c5f5-4bb7-99ef-42abb73bbb70(jetbrains.mps.lang.descriptor.aspects)" version="0" />
     <module reference="566c591f-9002-4c12-b8be-7b5006d08dc2(mbnf.sandbox@transient16)" version="0" />
+    <module reference="5565e795-e9ae-4885-b1a8-647c7ef0b7bc(mbnf.sandbox@transient16)" version="0" />
     <module reference="b0fcf759-165d-4568-89d7-4e9214309cfb(mbnf.sandbox@transient43)" version="0" />
     <module reference="95552bef-bc85-457b-9583-4f76ed4c21bd(mbnf.sandbox@transient94)" version="0" />
   </dependencyVersions>

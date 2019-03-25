@@ -9,10 +9,10 @@ Currently the manual procedure is as follows:
 3. select grammar file and latest transient model (containing generated output) 
 4. select Tools --> Import Generated Language (this imports the concept hierarchy) 
 5. fix concept hierarchy  
-6. build structure, review & auto-fix errors 
-7.remove transient model dependency 
-9. repeat until OK 
-10. select grammar file and latest transient model 
-11. select Tools --> Import Remaining Language Aspects (imports editors & textgen) 
-12. fix editors (similar to structure) 
-13. fix textgens (similar to structure)
+  5.1. build structure, review & auto-fix errors 
+  5.2.remove transient model dependency 
+  5.3. repeat until OK 
+6. select grammar file and latest transient model 
+7. select Tools --> Import Remaining Language Aspects (imports editors & textgen) 
+8. fix editors (similar to structure) 
+9. fix textgens (similar to structure)
